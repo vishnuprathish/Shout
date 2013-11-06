@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="var1">var1..</string>
+    <string name="var2">buhahha</string>
+    <string name="var3">Swoioi</string>
+    <string name="title_activity_display_message">MainActivity</string>
+
+</resources>
